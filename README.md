@@ -1,5 +1,7 @@
 # Enye-codingchallenge
-### Overview  In this COVID world that we live in, it is important that people can easily access medical assistance if need be. 
+### Overview  
+
+In this COVID world that we live in, it is important that people can easily access medical assistance if need be. 
 
 With that in mind, the goal of this challenge is to build an application that can locate all the hospitals within a given area.  
 
@@ -10,7 +12,7 @@ These following technologies must be used when building this application
 - [Typescript](https://create-react-app.dev/docs/adding-typescript/) 
 - [Google Maps API](https://developers.google.com/maps/documentation) or [Google Places API](https://developers.google.com/places/web-service/intro) 
 
-- Choose one of the following Component Libraries    
+Choose one of the following Component Libraries    
 - [AntD](https://ant.design/docs/react/introduce)     
 - [Material Design](https://material-ui.com/)  
 
