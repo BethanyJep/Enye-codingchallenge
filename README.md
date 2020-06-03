@@ -12,7 +12,7 @@ These following technologies must be used when building this application
 - [Typescript](https://create-react-app.dev/docs/adding-typescript/) 
 - [Google Maps API](https://developers.google.com/maps/documentation) or [Google Places API](https://developers.google.com/places/web-service/intro) 
 
-- Choose one of the following Component Libraries    
+Choose one of the following Component Libraries    
 - [AntD](https://ant.design/docs/react/introduce)     
 - [Material Design](https://material-ui.com/)  
 
